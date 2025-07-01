@@ -1,0 +1,4 @@
+.venv
+.env
+data/models.csv
+data/seriesCode_BYD.csv
