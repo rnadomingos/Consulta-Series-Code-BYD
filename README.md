@@ -29,6 +29,11 @@
 
 ## Execução
  - Altere o arquivo .env_sample [.env_sample](.env_sample), informe suas credenciais e renomeie o arquivo para ``.env``
+
+ Execute o comando abaixo
+   ```bash
+   poetry run python src/byd_series_code.py
+   ```
  - Ao finalizar a execução será impresso no terminal o DataFrame gerado, junto com o arquivo ``seriesCode_BYD.csv``
 
 ## Retorno Terminal
